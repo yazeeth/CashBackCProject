@@ -1,5 +1,4 @@
-//C code written by Fathima Firdha Latheef
-//IT20011734
+//C code written by Yazeeth
 // This is a simple systems that calculate the offers and shows it to customer according to their supscription level (Platinum Gold Silver).
 //This is seasonal limited offer so only the first five customers can get this offer, Invalid inputs will not be added to customer count. 
 //Min amount of purchase to get the cashback offer is 1000.
